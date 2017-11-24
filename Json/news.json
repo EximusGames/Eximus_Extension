@@ -3,12 +3,28 @@
     "icon": "fa-gamepad",
     "main_title": "Arcade Eximus",
     "descripction":"Adiada o acesso antecipado até dia 30 de Novembro.",
-    "time":"Quinta-feira, 23 de Novembro de 2017"
+    "time":"Quinta-feira, 23 de Novembro de 2017",
+    "link":"eximusgames.com"
     },
     {
     "icon": "fa-twitch",
     "main_title": "Live ON",
     "descripction":"Stream iniciada.",
-    "time":"Quinta-feira, 23 de Novembro de 2017"
+    "time":"Quinta-feira, 23 de Novembro de 2017",
+    "link":"twitch.com"
+    },
+    {
+    "icon": "fa-gamepad",
+    "main_title": "Efêmero",
+    "descripction":"Jogo Liberado",
+    "time":"Quinta-feira, 23 de Novembro de 2017",
+    "link":"eximusgames.com"
+    },
+    {
+    "icon": "fa-facebook-official",
+    "main_title": "Eximus no Facebook",
+    "descripction":"Curta a página da Eximus no facebook",
+    "time":"Quinta-feira, 23 de Novembro de 2017",
+    "link":"https://www.facebook.com/EximusGames/"
     }
 ]
