@@ -1,14 +1,14 @@
-{
-    "new": [
-        {
-        "icon": "fa-gamepad",
-        "main_title": "Arcade Eximus",
-        "descripction":"Adiada o acesso antecipado até dia 30 de Novembro.",
-        "time":"Quinta-feira, 23 de Novembra de 2017"},
-        {
-        "icon": "fa-twitch",
-        "main_title": "Live ON",
-        "descripction":"Stream iniciada.",
-        "time":"Quinta-feira, 23 de Novembra de 2017"}
-    ]
-}
+[
+    {
+    "icon": "fa-gamepad",
+    "main_title": "Arcade Eximus",
+    "descripction":"Adiada o acesso antecipado até dia 30 de Novembro.",
+    "time":"Quinta-feira, 23 de Novembro de 2017"
+    },
+    {
+    "icon": "fa-twitch",
+    "main_title": "Live ON",
+    "descripction":"Stream iniciada.",
+    "time":"Quinta-feira, 23 de Novembro de 2017"
+    }
+]
